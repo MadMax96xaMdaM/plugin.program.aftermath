@@ -30,7 +30,7 @@ YOUTUBEFILE    = 'http://'
 # Text File for addon installer.  Leave as 'http://' to ignore
 ADDONFILE      = 'http://'
 # Text File for advanced settings.  Leave as 'http://' to ignore
-ADVANCEDFILE   = 'https://cmbuild.000webhostapp.com/CMBuild/advanced.txt'
+ADVANCEDFILE   = 'http://'
 #########################################################
 
 #########################################################
