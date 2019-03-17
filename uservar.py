@@ -21,7 +21,7 @@ CACHEAGE       = 30
 BUILDFILE      = 'https://raw.githubusercontent.com/MadMax96xaMdaM/plugin.program.aftermath/master/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
-UPDATECHECK    = 1
+UPDATECHECK    = 2
 # Text File with apk info in it.  Leave as 'http://' to ignore
 APKFILE        = 'http://'
 # Text File with Youtube Videos urls.  Leave as 'http://' to ignore
