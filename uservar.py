@@ -18,7 +18,7 @@ EXCLUDES       = [ADDON_ID, 'repository.aftermath']
 CACHETEXT      = 'Yes'
 CACHEAGE       = 30
 # Text File with build info in it.
-BUILDFILE      = 'https://raw.githubusercontent.com/MadMax96xaMdaM/plugin.program.aftermath/master/builds.txt'
+BUILDFILE      = 'https://cmbuild.000webhostapp.com/CMBuild/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK    = 2
@@ -30,7 +30,7 @@ YOUTUBEFILE    = 'http://'
 # Text File for addon installer.  Leave as 'http://' to ignore
 ADDONFILE      = 'http://'
 # Text File for advanced settings.  Leave as 'http://' to ignore
-ADVANCEDFILE   = 'http://'
+ADVANCEDFILE   = 'https://cmbuild.000webhostapp.com/CMBuild/advanced.txt'
 #########################################################
 
 #########################################################
